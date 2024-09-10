@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0.494 6.914 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path d="M 249.538 23.151 L 452.359 139.923 L 452.359 373.465 L 249.538 490.237 L 46.717 373.466 L 46.717 139.922 Z" style="stroke: rgb(249, 101, 17); fill-rule: nonzero; fill: rgba(174, 24, 24, 0); stroke-width: 33px;" bx:shape="n-gon 249.538 256.694 234.198 233.543 6 0 1@a92bed2c"/>
+  <text style="fill: rgb(249, 101, 17); font-family: FreeSans; font-size: 150px; paint-order: fill; stroke: rgb(249, 101, 18); stroke-width: 8.95407px; white-space: pre;" transform="matrix(1.7230379581451416, 0, 0, 1.6273950338363647, -191.959716796875, -125.07664489746094)" x="211.329" y="279.796">J</text>
+  <rect x="243.316" y="438.264" width="14.169" height="53.797" style="stroke: rgb(249, 101, 17); paint-order: stroke; fill: rgb(249, 101, 17); stroke-width: 5px;"/>
+  <rect x="479.571" y="466.916" width="13.619" height="83.269" style="stroke: rgb(249, 101, 17); paint-order: stroke; fill: rgb(249, 101, 17); stroke-width: 5px; transform-origin: 486.381px 508.55px;" transform="matrix(0.56656908989, 0.824014008045, -0.853588104248, 0.523557007313, -201.988594762784, -89.369888382496)"/>
+  <rect x="311.413" y="363.464" width="14.169" height="36.532" style="stroke: rgb(249, 101, 17); paint-order: stroke; fill: rgb(249, 101, 17); stroke-width: 5px; transform-origin: 318.499px 381.73px;"/>
+  <ellipse style="fill: rgb(249, 101, 17); paint-order: stroke; stroke: rgb(249, 101, 17); stroke-width: 5px;" cx="318.096" cy="347.721" rx="14.824" ry="14.155"/>
+  <rect x="-254.809" y="-79.48" width="14.169" height="52.151" style="stroke: rgb(249, 101, 17); paint-order: stroke; fill: rgb(249, 101, 17); stroke-width: 5px; transform-origin: -247.725px -53.4045px;" transform="matrix(-1, 0, 0, -1, 495.449005126949, 106.809005737304)"/>
+  <rect x="479.129" y="467.347" width="13.607" height="83.347" style="stroke: rgb(249, 101, 17); paint-order: stroke; fill: rgb(249, 101, 17); stroke-width: 5px; transform-origin: 485.933px 509.02px;" transform="matrix(-0.551768004894, -0.833998024464, 0.862334907055, -0.508935928345, -272.064460061789, -412.337026331599)"/>
+  <rect x="-187.456" y="-150.786" width="14.169" height="36.532" style="stroke: rgb(249, 101, 17); paint-order: stroke; fill: rgb(249, 101, 17); stroke-width: 5px; transform-origin: -180.37px -132.52px;" transform="matrix(-1, 0, 0, -1, 360.739776611329, 265.040954589845)"/>
+  <ellipse style="fill: rgb(249, 101, 17); paint-order: stroke; stroke: rgb(249, 101, 17); stroke-width: 5px; transform-origin: -180.3px -163.057px;" cx="-180.3" cy="-163.057" rx="14.824" ry="14.155" transform="matrix(-1, 0, 0, -1, 360.600006103516, 326.114013671874)"/>
+</svg>
